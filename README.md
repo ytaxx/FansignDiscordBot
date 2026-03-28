@@ -1,8 +1,8 @@
-![image](https://github.com/ytaxx/FansignDiscordBot/blob/main/photos/discordimage.png)
-
 # Fansign Discord bot
 
 Lightweight Node.js bot project for generating fansigns and managing fonts, images, and related assets.
+
+![image](https://github.com/ytaxx/FansignDiscordBot/blob/main/photos/discordimage.png)
 
 ## Overview
 

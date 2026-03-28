@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "1216356653742686208",
+    "username": "956435234",
+    "duration": "Permanent",
+    "reason": "exploiting detected",
+    "timestamp": 1752538829185,
+    "expires": null,
+    "banId": 1874
+  },
+  {
+    "userId": "1216055780139077693",
+    "username": "sandorpap18",
+    "duration": "Permanent",
+    "reason": "exploiting detected",
+    "timestamp": 1752768415878,
+    "expires": null,
+    "banId": 4338
+  }
+]

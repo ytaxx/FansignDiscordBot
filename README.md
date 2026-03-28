@@ -1,4 +1,4 @@
-![image]([http://url/to/img.png](https://github.com/ytaxx/FansignDiscordBot/blob/main/photos/discordimage.png))
+![image](https://github.com/ytaxx/FansignDiscordBot/blob/main/photos/discordimage.png)
 
 # Fansign Discord bot
 
